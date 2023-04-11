@@ -64,7 +64,6 @@ section.card {
     background-color: rgb(170, 147, 255);
     padding: 10px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
     gap: 10px;
     border-radius: 0 0 10px 10px;
 }
